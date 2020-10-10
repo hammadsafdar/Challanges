@@ -1,0 +1,7 @@
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\bin\Debug\SudokuTask.exe.config
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\bin\Debug\SudokuTask.exe
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\bin\Debug\SudokuTask.pdb
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\obj\Debug\SudokuTask.csprojAssemblyReference.cache
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\obj\Debug\SudokuTask.csproj.CoreCompileInputs.cache
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\obj\Debug\SudokuTask.exe
+C:\Users\Expert\source\repos\SudokuTask\SudokuTask\obj\Debug\SudokuTask.pdb
