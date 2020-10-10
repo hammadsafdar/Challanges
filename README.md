@@ -1,2 +1,0 @@
-# Challanges
-Developer-Challenges
